@@ -1,0 +1,7 @@
+pandas
+yfinance
+prophet
+plotly
+scikit-learn
+numpy
+streamlit
